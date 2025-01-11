@@ -1,0 +1,70 @@
+.fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.fira-sans-medium {
+    font-family: "Fira Sans", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  .fira-sans-semibold {
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  .fira-sans-bold {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .bd2{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 90px 10px;
+    font-size: 20px;
+  }
+  .sign{
+    color: #006A50;
+    border-radius: 5px;
+    border-color: #006A50;
+    width: 100px;
+    height: 40px;
+    margin: auto;
+    
+  }
+  .btn-primary{
+    color: #FFFFFF;
+    background-color: #006A50;
+    font-family: "Fira Sans", serif;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    border-radius: 5px;
+    border-style: none;
+    padding: 18px 35px;
+  }
+  .vision{
+    background-position: center;
+    margin: auto;
+    background-color: #C6E4D6;
+    width: 1280px;
+    height: 560px;
+    border-radius: 15px;
+    padding: 50px 50px 30px;
+    background-image: url(../assets/hero.png);
+    background-repeat: no-repeat;
+    background-position: 90% center;
+  }
+  .vision-heading{
+    font-size: 24px;
+    opacity: 50%;
+    /* margin-bottom: 0px; */
+    padding-bottom:0px;
+  }
+  .vision-title{
+   font-size: 56px;
+  }
+  .img{
+    position: left center;
+  }
