@@ -51,7 +51,7 @@ body{
   }
   .vision{
     background-position: center;
-    margin:20px 40px 50px;
+    margin:20px 50px 30px 50px;
     background-color: #C6E4D6;
     width: 1280px;
     height: 560px;
@@ -75,7 +75,7 @@ body{
   }
   .pillars-of-bd{
     display: block;
-    margin: 20px 40px 50px;
+    margin: 20px 50px 30px 50px;
   }
   .pillars{
     display: flex;
@@ -110,7 +110,7 @@ body{
   }
   .future-of-bd{
     display: block;
-    margin: 20px 40px 50px;
+    margin: 20px 50px 30px 50px;
 
   }
   .future{
@@ -172,7 +172,7 @@ background-color:rgba(247, 235, 207, 1) ;
   .opinion{
     padding: 30px;
     display: block;
-    margin: 20px 40px 50px;
+    margin: 20px 50px 30px 50px;
   }
   .table{
     width: 1280px;
@@ -226,7 +226,7 @@ background-color:rgba(247, 235, 207, 1) ;
   /* news style */
   .news{
     display: block;
-    margin: 20px 40px 50px;
+    margin: 20px 50px 30px 50px;
 
   }
   .news-heading{
