@@ -175,7 +175,7 @@ background-color:rgba(247, 235, 207, 1) ;
     margin: 20px 50px 30px 50px;
   }
   .table{
-    width: 1280px;
+    width: 1150px;
     height: 300px;
     border: 1px solid #ccc;
     border-collapse: collapse;
@@ -312,7 +312,7 @@ background-color:rgba(247, 235, 207, 1) ;
   border: 1px solid #ccc;
   text-align: center;
   padding:15px;
-  margin: 20px 220px 10px;
+  margin: 20px 50px 30px 50px;
 }
 .donate-btn{
   text-align: center;
@@ -361,6 +361,13 @@ background-color:rgba(247, 235, 207, 1) ;
   text-align: center;
   justify-content: center;
   width: 1280px;
+}
+.footer-part{
+  font-family: "Fira Sans", serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 20px;
+
 }
 .icons{
   display: flex;
