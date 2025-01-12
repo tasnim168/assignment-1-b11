@@ -51,7 +51,7 @@ body{
   }
   .vision{
     background-position: center;
-    margin:20px 50px 30px 50px;
+    margin:20px 50px 50px 50px;
     background-color: #C6E4D6;
     width: 1280px;
     height: 560px;
@@ -75,7 +75,7 @@ body{
   }
   .pillars-of-bd{
     display: block;
-    margin: 20px 50px 30px 50px;
+    margin: 20px 50px 50px 50px;
   }
   .pillars{
     display: flex;
@@ -110,7 +110,7 @@ body{
   }
   .future-of-bd{
     display: block;
-    margin: 20px 50px 30px 50px;
+    margin: 20px 50px 50px 50px;
 
   }
   .future{
@@ -172,15 +172,15 @@ background-color:rgba(247, 235, 207, 1) ;
   .opinion{
     padding: 30px;
     display: block;
-    margin: 20px 50px 30px 50px;
+    margin: 20px 50px 50px 50px;
   }
   .table{
-    width: 1150px;
+    width: 1230px;
     height: 300px;
     border: 1px solid #ccc;
     border-collapse: collapse;
     padding:20px;
-    margin: 20px;
+    margin: 40px;
   }
   .table-heading{
     font-family: "Fira Sans", serif;
@@ -190,7 +190,7 @@ background-color:rgba(247, 235, 207, 1) ;
    margin-top: 10px;
   }
   td{
-    width: 60px;
+    /* width: 60px; */
     height: 40px;
     border: 1px solid gray;
     padding: 20px;
@@ -199,6 +199,8 @@ background-color:rgba(247, 235, 207, 1) ;
     font-weight: 500;
     font-style: normal;
     font-size: 16px;
+    /* flex-wrap: wrap; */
+
   }
   .table-bg{
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
